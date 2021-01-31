@@ -1,4 +1,4 @@
-# CS211-CompArch
+# CS211-CompArch (Sophmore Year Semester 1)
  Computer Architecture Projects
  
  Final Version of All Projects Stored as linux .tar files in GC folder
